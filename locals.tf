@@ -1,6 +1,6 @@
 locals {
   tags = {
-    owner      = "Saugat Tiwari"
-    terraform  = true
+    owner     = "Saugat Tiwari"
+    terraform = true
   }
 }
